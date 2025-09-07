@@ -34,22 +34,4 @@ The dataset includes anonymized hospital records covering patient flow, admissio
 - *Data Modeling* – Structuring data relationships for insightful analytics  
 - *DAX (Data Analysis Expressions)* – Custom calculations and metrics
 
-## 🚀 How to Use
 
-1. Clone or download this repository.
-2. Open the Power BI file (.pbix) included in the repository.
-3. Explore the reports, interact with filters, and analyze emergency room metrics.
-4. Modify or extend the reports according to your healthcare dataset or requirements.
-
-## 💡 Future Improvements
-
-- Integration with real-time hospital management systems  
-- Incorporating predictive analytics for patient flow forecasting  
-- Enhancing the dashboard with more visualizations and KPIs
-
-
-4. You can also add a link to your LinkedIn or email if you want others to connect with you.
-
-
-
-Let me know if you want the readme to be more technical or include setup steps in detail.
